@@ -1,0 +1,39 @@
+Date,Description,Amount,Balance
+2024-01-01,Opening Balance,,18450.00
+2024-01-03,ACH Deposit - Acme Corp Invoice #2201,14200.00,32650.00
+2024-01-05,Chase Business Checking - Rent Payment,-3800.00,28850.00
+2024-01-08,ADP Payroll - 4 Employees,-9200.00,19650.00
+2024-01-10,Stripe Payout - Dec Revenue,6800.00,26450.00
+2024-01-12,Google Ads,-850.00,25600.00
+2024-01-15,AT&T Business,-220.00,25380.00
+2024-01-18,ACH Deposit - Beta Partners LLC,8500.00,33880.00
+2024-01-22,AWS Cloud Services,-340.00,33540.00
+2024-01-25,Office Supplies - Staples,-195.00,33345.00
+2024-01-28,ACH Deposit - Acme Corp Invoice #2202,14200.00,47545.00
+2024-01-31,Closing Balance - January,,47545.00
+2024-02-01,Opening Balance,,47545.00
+2024-02-02,ADP Payroll - 4 Employees,-9200.00,38345.00
+2024-02-05,Chase Business Checking - Rent Payment,-3800.00,34545.00
+2024-02-08,Stripe Payout - Jan Revenue,7400.00,41945.00
+2024-02-10,ACH Deposit - Gamma Retail Group,11000.00,52945.00
+2024-02-12,Google Ads,-1100.00,51845.00
+2024-02-14,LinkedIn Ads,-450.00,51395.00
+2024-02-18,ACH Deposit - Beta Partners LLC,8500.00,59895.00
+2024-02-20,Professional Services - Legal,-2500.00,57395.00
+2024-02-22,AWS Cloud Services,-340.00,57055.00
+2024-02-25,Business Travel - Delta,-980.00,56075.00
+2024-02-28,Closing Balance - February,,56075.00
+2024-03-01,Opening Balance,,56075.00
+2024-03-04,ACH Deposit - Acme Corp Invoice #2203,14200.00,70275.00
+2024-03-05,Chase Business Checking - Rent Payment,-3800.00,66475.00
+2024-03-07,ADP Payroll - 4 Employees,-9200.00,57275.00
+2024-03-10,Stripe Payout - Feb Revenue,8100.00,65375.00
+2024-03-12,ACH Deposit - Gamma Retail Group,11000.00,76375.00
+2024-03-14,Google Ads,-950.00,75425.00
+2024-03-18,ACH Deposit - Beta Partners LLC,8500.00,83925.00
+2024-03-20,Equipment Purchase - B&H Photo,-4200.00,79725.00
+2024-03-22,AWS Cloud Services,-340.00,79385.00
+2024-03-25,AT&T Business,-220.00,79165.00
+2024-03-27,Business Travel - American Airlines,-1240.00,77925.00
+2024-03-29,ACH Deposit - New Client - Delta Logistics,5000.00,82925.00
+2024-03-31,Closing Balance - March,,82925.00
